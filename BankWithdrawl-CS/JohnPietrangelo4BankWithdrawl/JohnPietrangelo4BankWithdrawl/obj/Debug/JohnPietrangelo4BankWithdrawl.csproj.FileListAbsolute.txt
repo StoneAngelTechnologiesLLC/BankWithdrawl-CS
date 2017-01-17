@@ -1,0 +1,12 @@
+c:\users\john pietrangelo\documents\visual studio 2012\Projects\JohnPietrangelo4BankWithdrawl\JohnPietrangelo4BankWithdrawl\bin\Debug\JohnPietrangelo4BankWithdrawl.exe.config
+c:\users\john pietrangelo\documents\visual studio 2012\Projects\JohnPietrangelo4BankWithdrawl\JohnPietrangelo4BankWithdrawl\bin\Debug\JohnPietrangelo4BankWithdrawl.exe
+c:\users\john pietrangelo\documents\visual studio 2012\Projects\JohnPietrangelo4BankWithdrawl\JohnPietrangelo4BankWithdrawl\bin\Debug\JohnPietrangelo4BankWithdrawl.pdb
+c:\users\john pietrangelo\documents\visual studio 2012\Projects\JohnPietrangelo4BankWithdrawl\JohnPietrangelo4BankWithdrawl\obj\Debug\JohnPietrangelo4BankWithdrawl.csprojResolveAssemblyReference.cache
+c:\users\john pietrangelo\documents\visual studio 2012\Projects\JohnPietrangelo4BankWithdrawl\JohnPietrangelo4BankWithdrawl\obj\Debug\JohnPietrangelo4BankWithdrawl.exe
+c:\users\john pietrangelo\documents\visual studio 2012\Projects\JohnPietrangelo4BankWithdrawl\JohnPietrangelo4BankWithdrawl\obj\Debug\JohnPietrangelo4BankWithdrawl.pdb
+C:\Users\John Pietrangelo\Git-Projects\BankWithdrawl-CS\JohnPietrangelo4BankWithdrawl\JohnPietrangelo4BankWithdrawl\bin\Debug\JohnPietrangelo4BankWithdrawl.exe.config
+C:\Users\John Pietrangelo\Git-Projects\BankWithdrawl-CS\JohnPietrangelo4BankWithdrawl\JohnPietrangelo4BankWithdrawl\obj\Debug\JohnPietrangelo4BankWithdrawl.exe
+C:\Users\John Pietrangelo\Git-Projects\BankWithdrawl-CS\JohnPietrangelo4BankWithdrawl\JohnPietrangelo4BankWithdrawl\obj\Debug\JohnPietrangelo4BankWithdrawl.pdb
+C:\Users\John Pietrangelo\Git-Projects\BankWithdrawl-CS\JohnPietrangelo4BankWithdrawl\JohnPietrangelo4BankWithdrawl\bin\Debug\JohnPietrangelo4BankWithdrawl.exe
+C:\Users\John Pietrangelo\Git-Projects\BankWithdrawl-CS\JohnPietrangelo4BankWithdrawl\JohnPietrangelo4BankWithdrawl\bin\Debug\JohnPietrangelo4BankWithdrawl.pdb
+C:\Users\John Pietrangelo\Git-Projects\BankWithdrawl-CS\JohnPietrangelo4BankWithdrawl\JohnPietrangelo4BankWithdrawl\obj\Debug\JohnPietrangelo4BankWithdrawl.csprojResolveAssemblyReference.cache
